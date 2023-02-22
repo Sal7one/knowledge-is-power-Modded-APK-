@@ -21,6 +21,11 @@ Do you hate losing to your family and friends when playing this game?
 
 Check for yourself (Origial ads tracking was not removed) 
 
+SHA-256	
+```
+da3532f584aae774a142fded6fd116566bac026bfd92f124c0b3007752022a0c
+```
+
 <a href="https://www.virustotal.com/gui/file/da3532f584aae774a142fded6fd116566bac026bfd92f124c0b3007752022a0c/detection"> Virus Total </a>
 
 ## Download 
