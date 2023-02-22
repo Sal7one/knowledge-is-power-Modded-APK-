@@ -17,6 +17,18 @@ Do you hate losing to your family and friends when playing this game?
 
 - works offline or with ps4 
 
+## Safety
+
+Check for yourself (Origial ads tracking was not removed) 
+
+<a href="https://www.virustotal.com/gui/file/da3532f584aae774a142fded6fd116566bac026bfd92f124c0b3007752022a0c/detection"> Virus Total </a>
+
 ## Download 
 
-Just check the release page to download the apk
+ - Just check the release page to download the apk
+
+
+- Original release from 2019
+   <a href="https://drive.google.com/open?id=1VlxxJZjv89MUNQitroIwgNzwvxkpnxgi"> Google Drive </a>
+
+
