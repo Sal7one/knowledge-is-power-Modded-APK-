@@ -1,2 +1,6 @@
-# knowledge-is-power-Modded-APK-
-A modded version of the game apk I made a couple of years ago
+# Knowledge is power modded APK
+
+Do you hate losing to your family and friends when playing this game? 
+<br> Well I got just the thing for you.
+
+Just check the release page to download the apk
