@@ -15,7 +15,7 @@ Do you hate losing to your family and friends when playing this game?
 
 - Freeze is broken with 1 hit instead of 3
 
-- works offline or with ps4 
+- works offline(in app mini game) or with PS5/PS4
 
 ## Safety
 
